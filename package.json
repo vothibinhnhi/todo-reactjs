@@ -1,7 +1,7 @@
 {
   "name": "jobster",
   "version": "0.1.0",
-  "homepage": "https://vothibinhnhi.github.io/todo-app-reactjs.git",
+  "homepage": "https://vothibinhnhi.github.io/todo-app-reactjs/",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.0",
@@ -24,11 +24,11 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "CI= react-scripts build",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy" : "npm run build",
-"deploy" : "gh-pages -d build"
+    "deploy" : "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [

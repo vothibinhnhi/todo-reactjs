@@ -1,7 +1,7 @@
 {
-  "name": "jobster",
+  "name": "todoapp",
   "version": "0.1.0",
-  "homepage": "https://vothibinhnhi.github.io/todo-app-reactjs/",
+  "homepage": "https://vothibinhnhi.github.io/todo-reactjs",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.0",
